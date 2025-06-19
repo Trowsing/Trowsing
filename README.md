@@ -9,7 +9,7 @@ With over 6 years of experience creating robust applications with Python and Go,
 *   🌍  I'm based in Campinas, São Paulo - Brazil
 *   🚀  I'm currently working on [Olist Conta Digital](http://olist.com/conta-digital/)
 *   🧠  I'm learning how to enhance note taking apps with AI
-*   ✉️  You can contact me at [trowsing@gmail.com](mailto:trowsing@gmail.com)
+*   📫  Reach me on [LinkedIn](https://www.linkedin.com/in/jhonathanballesteros/)
 
 ### Skills 
 <p align="left">
